@@ -1,0 +1,33 @@
+.txt1{
+    text-align: center;
+    
+}
+.txt1 h1{
+   
+    font-family: sans-serif;
+   
+}
+.txt1 span{
+    color: #8f8c8c;
+    
+}
+.txt1 .picture img{
+   width: 1200px;
+   height: 500px;
+   
+}
+.p{
+    color: rgb(68, 67, 67);
+    text-align: left;
+    padding: 10px 65px ;
+ 
+}
+button{
+    border: none;
+    background-color: white;
+    padding-top: 20px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(87, 85, 85);
+    text-align: center;
+}

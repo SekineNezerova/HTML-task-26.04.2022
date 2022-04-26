@@ -1,0 +1,47 @@
+.firstclass{
+    height: 90px;
+    margin: -10px;
+    background-color: rgb(56, 55, 55);
+}
+.firstclass img{
+    width: 100px;
+    padding-left: 100px;
+}
+.secondclass img{
+    margin-left: -10px;
+    margin-top: 10px;
+    width: 1359px;
+    height: 568px;
+    filter: opacity(50%)
+}
+.textclass{
+    position: absolute;
+    top: 150px;
+    left: 16px;
+    margin-left: 100px ;
+    margin-top: 50px;
+    font-family: sans-serif;
+    
+}
+.textclass .txt{
+    color: tomato;
+   font-size:50px;
+}
+.textclass .txt2{
+    color: rgb(8, 8, 7);
+   font-size:50px;
+}
+.textclass p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.textclass .button
+{
+    background-color: tomato;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: large;
+    color: antiquewhite;
+}
